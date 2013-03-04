@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intents Examples</string>
+    <string name="main_title">Examples of Android Intents</string>
+    <string name="main_explanation">Click on a button below to see an example of an intent</string>
+    <string name="menu_settings">Settings</string>
+    <string name="main_action_intent">Action View Intent (URL)</string>
+
+</resources>
